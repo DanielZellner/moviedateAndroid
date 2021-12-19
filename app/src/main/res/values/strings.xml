@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_group">GROUP</string>
+    <string name="title_swipe">SWIPE</string>
+    <string name="title_profile">PROFILE</string>
+    <string name="title_appName">MovieDate</string>
+</resources>
